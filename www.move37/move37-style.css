@@ -1,0 +1,27 @@
+.center{
+    text-align:center;
+}
+.inIMG{
+    color: white;
+}
+h1 h2{
+    font-family: 'Playfair Display';
+}
+p{
+    font-family: 'Quicksand';
+    font-size: large;
+}
+
+.belowIMG{
+    text-align: center;
+    color: black; 
+
+}
+.border{
+    border-style: solid black;
+    border-width: 4px;
+}
+
+#bio{
+    max-height: 60%;
+}
