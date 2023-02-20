@@ -1,9 +1,6 @@
 .center{
     text-align:center;
 }
-.inIMG{
-    color: white;
-}
 h1 h2{
     font-family: 'Playfair Display';
 }
@@ -25,3 +22,54 @@ p{
 #bio{
     max-height: 60%;
 }
+
+.bg-image {
+    text-align: center;
+    height: auto;
+    background-image: url('Backdrop.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+  }
+  
+.inIMG {
+    margin-bottom:auto;
+}
+  
+.sidebar {
+    width:25%;
+    background-color: #f5f5f5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+  
+.sidebar-sticky {
+    position: relative;
+    top: 0;
+    height: 100%;
+}
+  
+.sidebar-sticky ul {
+    font-size: 18px;
+}
+  
+.sidebar-sticky li {
+    margin-bottom: 10px;
+}
+  
+.sidebar-sticky a {
+    color: #333;
+}
+  
+.col-8 {
+    margin-left: 25%;
+    padding-left: 5%;
+    color: white;
+}
+  
+.center {
+    text-align: center;
+}
+  
